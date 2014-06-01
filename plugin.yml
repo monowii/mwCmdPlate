@@ -1,0 +1,4 @@
+name: mwCmdPlate
+version: 0.1
+author: monowii
+main: me.monowii.cmdplate.CmdPlate
